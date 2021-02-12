@@ -22,7 +22,6 @@ I am an aspiring Full Stack Web Developer, my speciality is picking up new thing
   <ul>
     <li>Tensorflow</li>
     <li>Pytorch</li>
-    <li>Scikit-Learn</li>
     <li>Apache Spark</li>
     <li>OpenCV</li>
     <li>Relational Database (MySQL, SQLite)</li>
